@@ -1,12 +1,12 @@
 Hi 👋 My name is Kareem Zghaer
 ==============================
 
-Fullstack developer
+Frontend & Mobile developer
 -------------------
 
 * 🌍  I'm based in Hamburg, Germany
 * ✉️  You can contact me at [azghaer@gmail.com](mailto:azghaer@gmail.com)
-* 🚀  I'm currently working on SetRepGo
+* 🚀  Check my [portfolio](https://kareem-zghaer.vercel.app)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/instagram.com/azghaer) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@azghaer) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/11807070/kareem-zghaer) 
